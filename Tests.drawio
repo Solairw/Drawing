@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T03:23:28.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="BVKgLOr-Z3FHSmZka_74" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T03:24:11.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="qXch6KHGSZ51jIhw9GyW" version="22.0.8" type="github">
   <diagram name="Страница — 1" id="JfSK0EbTdW2aqeJ0WZRY">
-    <mxGraphModel dx="1169" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1429" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,13 +22,13 @@
             <mxPoint x="1020" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="id1PGgARGqeGFATlJ7e1-3" value="Integration External Tests" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Pt Astra Sans;fontSize=17;size=35;points=[[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.15,0,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[0.85,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+        <mxCell id="id1PGgARGqeGFATlJ7e1-3" value="Integration External Tests" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Pt Astra Sans;fontSize=17;size=35;points=[[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.15,0,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[0.85,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="344" y="360" width="226" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="id1PGgARGqeGFATlJ7e1-43" value="Unit-tests" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Pt Astra Sans;fontSize=17;size=35;" vertex="1" parent="1">
+        <mxCell id="id1PGgARGqeGFATlJ7e1-43" value="Unit-tests" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Pt Astra Sans;fontSize=17;size=35;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="227" y="570" width="460" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="id1PGgARGqeGFATlJ7e1-46" value="Integration DB tests" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Pt Astra Sans;fontSize=17;size=35;" vertex="1" parent="1">
+        <mxCell id="id1PGgARGqeGFATlJ7e1-46" value="Integration DB tests" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Pt Astra Sans;fontSize=17;size=35;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="285" y="465" width="344" height="60" as="geometry" />
         </mxCell>
         <mxCell id="id1PGgARGqeGFATlJ7e1-50" value="" style="group" vertex="1" connectable="0" parent="1">
